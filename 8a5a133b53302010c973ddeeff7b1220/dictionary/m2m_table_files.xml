@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="m2m table files" max_length="40" name="m2m_table_files" type="collection">
+        <element attributes="encode_utf8=false" label="ACE" max_length="32" name="sn_testsysupdatexm_ace" reference="cmdb_ci_lb_ace" type="reference"/>
+        <element attributes="encode_utf8=false" label="ACL Endpoint" max_length="32" name="sn_testsysupdatexm_acl_endpoint" reference="cmdb_ci_endpoint_acl" type="reference"/>
+        <index name="index">
+            <element name="sn_testsysupdatexm_ace"/>
+        </index>
+    </element>
+</database>
