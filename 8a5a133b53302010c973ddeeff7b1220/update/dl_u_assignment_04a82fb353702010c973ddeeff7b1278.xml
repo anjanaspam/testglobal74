@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_u_assignment">
+    <dl_u_assignment action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assigned_to/>
+        <assignment_group/>
+        <category>hardware</category>
+        <cmdb_ci/>
+        <location/>
+        <order>100</order>
+        <subcategory>dhcp</subcategory>
+        <sys_class_name>dl_u_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-07 18:41:29</sys_created_on>
+        <sys_id>04a82fb353702010c973ddeeff7b1278</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="testsysupdatexml" source="sn_testsysupdatexm">8a5a133b53302010c973ddeeff7b1220</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testsysupdatexml">8a5a133b53302010c973ddeeff7b1220</sys_scope>
+        <sys_update_name>dl_u_assignment_04a82fb353702010c973ddeeff7b1278</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-07 18:41:29</sys_updated_on>
+    </dl_u_assignment>
+</record_update>
