@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>sn_testsysupdatexm.test</name>
+        <read_roles/>
+        <suffix>test</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-07 19:58:33</sys_created_on>
+        <sys_id>204ab77f53702010c973ddeeff7b1210</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_testsysupdatexm.test</sys_name>
+        <sys_package display_value="testsysupdatexml" source="sn_testsysupdatexm">8a5a133b53302010c973ddeeff7b1220</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testsysupdatexml">8a5a133b53302010c973ddeeff7b1220</sys_scope>
+        <sys_update_name>sys_properties_204ab77f53702010c973ddeeff7b1210</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-07 19:58:33</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=204ab77f53702010c973ddeeff7b1210"/>
+</record_update>
