@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_testsysupdatexm.role commit" name="sn_testsysupdatexm.role commit">96893f3f53702010c973ddeeff7b126b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-07 19:55:28</sys_created_on>
+        <sys_id>e4993f3f53702010c973ddeeff7b12c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>96893f3f53702010c973ddeeff7b126b</sys_name>
+        <sys_package display_value="testsysupdatexml" source="sn_testsysupdatexm">8a5a133b53302010c973ddeeff7b1220</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testsysupdatexml">8a5a133b53302010c973ddeeff7b1220</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e4993f3f53702010c973ddeeff7b12c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-07 19:55:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
