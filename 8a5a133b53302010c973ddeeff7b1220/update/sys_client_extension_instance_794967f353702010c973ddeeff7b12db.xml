@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_client_extension_instance">
+    <sys_client_extension_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <point>ewe</point>
+        <sys_class_name>sys_client_extension_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-07 18:44:21</sys_created_on>
+        <sys_id>794967f353702010c973ddeeff7b12db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ewe</sys_name>
+        <sys_package display_value="testsysupdatexml" source="sn_testsysupdatexm">8a5a133b53302010c973ddeeff7b1220</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testsysupdatexml">8a5a133b53302010c973ddeeff7b1220</sys_scope>
+        <sys_update_name>sys_client_extension_instance_794967f353702010c973ddeeff7b12db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-07 18:44:21</sys_updated_on>
+        <ui_script/>
+    </sys_client_extension_instance>
+</record_update>
