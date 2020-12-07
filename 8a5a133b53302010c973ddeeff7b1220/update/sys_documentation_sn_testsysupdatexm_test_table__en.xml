@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="test_table" language="en" table="sn_testsysupdatexm_test_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>test_table</label>
+            <language>en</language>
+            <name>sn_testsysupdatexm_test_table</name>
+            <plural>test_tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-07 17:40:12</sys_created_on>
+            <sys_id>1b9a173b53302010c973ddeeff7b12b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test_table</sys_name>
+            <sys_package display_value="testsysupdatexml" source="sn_testsysupdatexm">8a5a133b53302010c973ddeeff7b1220</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testsysupdatexml">8a5a133b53302010c973ddeeff7b1220</sys_scope>
+            <sys_update_name>sys_documentation_sn_testsysupdatexm_test_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-07 17:40:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
