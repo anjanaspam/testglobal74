@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_client_extension_point">
+    <sys_client_extension_point action="INSERT_OR_UPDATE">
+        <api_name>sn_testsysupdatexm.thookam</api_name>
+        <description/>
+        <example/>
+        <name>thookam</name>
+        <public>true</public>
+        <restrict_scope>false</restrict_scope>
+        <sys_class_name>sys_client_extension_point</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-07 18:43:47</sys_created_on>
+        <sys_id>ad2927f353702010c973ddeeff7b120b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>thookam</sys_name>
+        <sys_package display_value="testsysupdatexml" source="sn_testsysupdatexm">8a5a133b53302010c973ddeeff7b1220</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testsysupdatexml">8a5a133b53302010c973ddeeff7b1220</sys_scope>
+        <sys_update_name>sys_client_extension_point_ad2927f353702010c973ddeeff7b120b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-07 18:43:47</sys_updated_on>
+    </sys_client_extension_point>
+</record_update>
