@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <name>sn_testsysupdatexm.ui script</name>
+        <script><![CDATA[var sn_testsysupdatexm = sn_testsysupdatexm || {};
+
+sn_testsysupdatexm.ui script = (function() {
+	"use strict";
+
+/* set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+*/
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	sn_testsysupdatexm.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return sn_testsysupdatexm.sharedVar;
+	}
+*/
+
+	return {
+
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "ui script"
+	};
+})();
+]]></script>
+        <script_name>ui script</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-07 18:40:48</sys_created_on>
+        <sys_id>e078abb353702010c973ddeeff7b1206</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_testsysupdatexm.ui script</sys_name>
+        <sys_package display_value="testsysupdatexml" source="sn_testsysupdatexm">8a5a133b53302010c973ddeeff7b1220</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testsysupdatexml">8a5a133b53302010c973ddeeff7b1220</sys_scope>
+        <sys_update_name>sys_ui_script_e078abb353702010c973ddeeff7b1206</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-07 18:40:48</sys_updated_on>
+        <ui_type>0</ui_type>
+        <use_scoped_format>false</use_scoped_format>
+    </sys_ui_script>
+</record_update>
