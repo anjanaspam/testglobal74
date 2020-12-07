@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="test_table" max_length="40" name="sn_testsysupdatexm_test_table" type="collection"/>
+    <element label="test_table" max_length="40" name="sn_testsysupdatexm_test_table" type="collection">
+        <element label="Test col string" max_length="100" name="test_col_string" type="string"/>
+    </element>
 </database>
