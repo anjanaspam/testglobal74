@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Sn Testsysupdatexm M2m Action Inpu Aces" max_length="40" name="sn_testsysupdatexm_m2m_action_inpu_aces" type="collection">
+        <element attributes="encode_utf8=false" label="ACE" max_length="32" name="ace" reference="cmdb_ci_lb_ace" type="reference"/>
+        <element attributes="encode_utf8=false" label="Action Input Action Instance" max_length="32" name="action_input_action_instance" reference="sys_hub_action_input_action_instance" type="reference"/>
+        <index name="index">
+            <element name="ace"/>
+        </index>
+        <index name="index2">
+            <element name="action_input_action_instance"/>
+        </index>
+    </element>
+</database>
